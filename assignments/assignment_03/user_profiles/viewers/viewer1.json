@@ -1,0 +1,11 @@
+{
+    "username": "dave_viewer",
+    "email": "dave.viewer@company.com",
+    "role": "viewer",
+    "preferences": {
+        "theme": "dark",
+        "notifications": "disabled"
+    },
+    "last_login": "2024-09-30",
+    "permissions": ["view_content"]
+}

@@ -1,0 +1,12 @@
+{
+    "username": "john_admin",
+    "email": "john.admin@company.com",
+    "role": "admin",
+    "preferences": {
+        "theme": "dark",
+        "notifications": "enabled"
+    },
+    "last_login": "2024-10-08",
+    "permissions": ["manage_users", "access_reports", "edit_content"]
+}
+// this files should not be converted.

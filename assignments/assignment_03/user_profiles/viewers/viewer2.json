@@ -1,0 +1,11 @@
+{
+    "username": "emma_viewer",
+    "email": "emma.viewer@company.com",
+    "role": "viewer",
+    "preferences": {
+        "theme": "light",
+        "notifications": "enabled"
+    },
+    "last_login": "2024-09-29",
+    "permissions": ["view_content"]
+}

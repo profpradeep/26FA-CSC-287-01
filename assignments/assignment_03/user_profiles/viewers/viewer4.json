@@ -1,0 +1,11 @@
+{
+    "username": "zoe_viewer",
+    "email": "zoe.viewer@company.com",
+    "role": "viewer",
+    "preferences": {
+        "theme": "dark",
+        "notifications": "enabled"
+    },
+    "last_login": "2024-09-27",
+    "permissions": ["view_content"]
+}

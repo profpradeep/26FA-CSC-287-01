@@ -1,0 +1,11 @@
+{
+    "username": "carol_editor",
+    "email": "carol.editor@company.com",
+    "role": "editor",
+    "preferences": {
+        "theme": "light",
+        "notifications": "enabled"
+    },
+    "last_login": "2024-10-05",
+    "permissions": ["edit_content", "publish_content"]
+}
