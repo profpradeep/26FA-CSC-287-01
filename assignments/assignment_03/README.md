@@ -1,4 +1,4 @@
-### Homework Assignment #4: Building a Python Script to Batch Update User Profiles
+### Homework Assignment #3: Building a Python Script to Batch Update User Profiles
 
 #### **Objective:**
 Create a Python script that processes user profile data stored as JSON files in a directory structure. The script should apply a series of transformations to the user data and write the updated profiles into a new output directory. 
@@ -84,4 +84,4 @@ If your script is run on `2025-10-11`, the output folder could be named `user_pr
 </details>
 
 
-### This assignment is due by Oct 19th, midnight 
+### This assignment is due by Oct 20th, midnight 
