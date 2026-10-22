@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body.dark {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <button id="toggle">Toggle Mode</button>
+
+    <script>
+        document.getElementById("toggle")
+            .addEventListener("click", () => 
+                document.body.classList.toggle("dark"));
+    </script>
+</body>
+</html>
