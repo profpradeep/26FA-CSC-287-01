@@ -6,5 +6,9 @@
   "remoteUrl": "https://github.com/profpradeep/26FA-CSC-287-01.git",
   "languages": [
     "python"
-  ]
+  ],
+  "vcr-recording": {
+    "version": 1,
+    "trackedFolders": ["exercises/**/*", "assignments/**/*"]
+  }
 }
