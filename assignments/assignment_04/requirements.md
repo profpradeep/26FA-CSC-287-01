@@ -98,3 +98,5 @@ Run your application twice:
 Run each version at least three times and compare the results.
 
 Save this the results to the table defined in the [results.md](./results.md) file in this folder.
+
+Commit and push your repository, either from the command line or via VCR ("Save checkpoint", followed by "Push submission")
