@@ -8,6 +8,8 @@ You can use JavaScript's built-in `fetch()` function to retrieve data from publi
 
 Implement both approaches using essentially the same code. You should be able to switch between them by changing a single setting in your program, or can be a command line argument.
 
+NOTE: You may use the included  [api-aggregator.js](./api-aggregator.js) file in this folder as a starting point.
+
 ## 1. API Resources
 
 Use the following public REST API endpoints provided by DummyJSON:
