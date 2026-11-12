@@ -186,14 +186,7 @@ Tasks:
 3. Try assigning `studentID` to `grade`.
 4. Explain why the third assignment is allowed.
 
-Solution
 
-```
-studentID = "Alex";  // Error
-course = 284;        // Error
-
-grade = studentID;   // Allowed
-```
 ---
 
 ### Exercise 7 – Type Alias or Interface?
